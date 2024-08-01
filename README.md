@@ -8,6 +8,7 @@
 
 📫 How to reach me: email at teleschristopher@gmail.com or connect with me on LinkedIn 
 linkedin.com/in/christopher-teles-658963191 
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I love coding challenges and puzzles, and I enjoy playing chess in my free time!
