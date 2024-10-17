@@ -1,16 +1,24 @@
-👋 Hi, I’m Christopher Teles
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
 
-👀 I’m interested in web development, especially front-end technologies like HTML, CSS, and JavaScript.
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-🌱 I’m currently learning about responsive design and modern JavaScript frameworks like React or Vue.js.
 
-💞️ I’m looking to collaborate on open-source projects or any web development projects where I can learn and grow.
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
 
-📫 How to reach me: email at teleschristopher@gmail.com or connect with me on LinkedIn 
-linkedin.com/in/christopher-teles-658963191 
+  </div>
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I love coding challenges and puzzles, and I enjoy playing chess in my free time!
-Isso vai ajudar a transmitir seus interesses e objetivos de maneira clara e atraente!
-
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
