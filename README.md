@@ -1,3 +1,12 @@
+
+# Hey there! I'm Christopher Teles 👋
+
+**Web developer with a degree in Systems Analysis, experience in administration and solid knowledge of JavaScript, HTML and CSS.**
+
+---
+
+## 📈 GitHub Stats
+
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
