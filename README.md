@@ -21,9 +21,10 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=ChristopherTelles&row=1&column=5&theme=dracula" />
-
+     <img src="https://komarev.com/ghpvc/?username=kann4n&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+     
   </div>
+  
   
  
 
