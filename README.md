@@ -1,4 +1,5 @@
-
+# Hey there! I'm Christopher 👋
+**Web developer with a degree in Systems Analysis, experience in administration and solid knowledge of JavaScript, HTML and CSS.**
 
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
