@@ -1,11 +1,9 @@
+# Hey there! I'm Christopher Telles 👋
 
-# Hey there! I'm Christopher Teles 👋
-
-**Web developer with a degree in Systems Analysis, experience in administration and solid knowledge of JavaScript, HTML and CSS.**
+Desenvolvedor **Front-end em formação**, com foco em **JavaScript, HTML e CSS**.  
+Formado em **Análise e Desenvolvimento de Sistemas**, experiência administrativa e forte interesse em evoluir para a área de tecnologia através da prática e projetos reais.
 
 ---
-
-## 📈 GitHub Stats
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -22,8 +20,18 @@
 
 <br />
 
+## 🛠️ Tecnologias e Ferramentas
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,github,linux,discord,linkedin,instagram" />
   </a>
 </div>
+
+<br />
+
+## 📌 Objetivo
+
+Consolidar minha base em **Front-end**, aprimorar lógica de programação e boas práticas, e atuar em projetos que me permitam crescer tecnicamente e profissionalmente.
+
+---
