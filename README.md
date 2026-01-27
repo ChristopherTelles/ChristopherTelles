@@ -10,13 +10,11 @@
 
 
  
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,github,linux,discord,linkedin,instagram" />
-</a>
-  <br />
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kann4n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kann4n&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-  </div>
 
  
 ##
