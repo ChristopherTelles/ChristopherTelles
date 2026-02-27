@@ -39,7 +39,7 @@ Desenvolvedor Front-end em formação, focado em criar experiências digitais in
   <a href="https://www.linkedin.com/in/christopher-t-658963191/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/teuschristopher](https://www.instagram.com/christopher_teles?igsh=MXRrbXN3NWo3YXZsYw==)">
+  <a href="[[https://instagram.com/teuschristopher](https://www.instagram.com/christopher_teles?igsh=MXRrbXN3NWo3YXZsYw==)](https://www.instagram.com/christopher_teles?igsh=MXRrbXN3NWo3YXZsYw%3D%3D)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="[https://christophertelles.github.io/Portfolio/](https://christophertelles.github.io/Portfolio.io/)">
