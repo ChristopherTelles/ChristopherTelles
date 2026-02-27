@@ -1,11 +1,5 @@
 # Olá, Sou o Christopher Telles ! 👋
 
-<p align="center">
-  <img src="https://github.com/ChristopherTelles.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #2ea44f;" alt="Christopher Telles">
-</p>
-
----
-
 ### 🚀 Sobre Mim
 
 Desenvolvedor Front-end em formação, focado em criar experiências digitais incríveis. Com uma formação sólida em Análise e Desenvolvimento de Sistemas e Experiência Administrativa, uma organização com a paixão por tecnologia para entregar soluções eficientes e visualmente atraentes. Estou sempre em busca de novos desafios para evoluir minhas habilidades práticas.
