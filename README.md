@@ -1,37 +1,50 @@
-# Hey there! I'm Christopher Telles 👋
+# Olá, Sou o **Christopher Telles**! 👋
+---
 
-Desenvolvedor **Front-end em formação**, com foco em **JavaScript, HTML e CSS**.  
-Formado em **Análise e Desenvolvimento de Sistemas**, experiência administrativa e forte interesse em evoluir para a área de tecnologia através da prática e projetos reais.
+### 🚀 Sobre Mim
+
+Desenvolvedor Front-end em formação, focado em criar experiências digitais incríveis. Com uma sólida formação em Análise e Desenvolvimento de Sistemas e experiência administrativa, uno organização com a paixão por tecnologia para entregar soluções eficientes e visualmente atraentes.
 
 ---
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+### 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherTelles&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTelles&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristopherTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
 
-<br />
+<h3 align="left">🛠️ Linguagens e Distribuição</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristopherTelles&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristopherTelles&layout=compact&theme=tokyonight&hide_progress=false" alt="Porcentagem de Linguagens" />
+</p>
 
-<br />
+---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,github,linux,discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,js,ts,react,html,css,sass,nodejs,express,mongodb,postman,figma,github,discord,linkedin,instagram,linux" />
   </a>
-</div>
-
-<br />
-
-## 📌 Objetivo
-
-Consolidar minha base em **Front-end**, aprimorar lógica de programação e boas práticas, e atuar em projetos que me permitam crescer tecnicamente e profissionalmente.
+</p>
 
 ---
+
+### 👋 Vamos Nos Conectar?
+
+<p align="left">
+  <a href="mailto:teuschristopher@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/christopher-telles-658963191">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/teuschristopher">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://christophertelles.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+</p>
