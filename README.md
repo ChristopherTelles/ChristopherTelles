@@ -1,22 +1,17 @@
 # Olá, Sou o Christopher Telles ! 👋
 
-<p align="center">
-  <img src="https://github.com/ChristopherTelles.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #2ea44f;" alt="Christopher Telles">
-</p>
-
----
-
 ### 🚀 Sobre Mim
 
-Desenvolvedor Front-end em formação, focado em criar experiências digitais incríveis. Com uma formação sólida em Análise e Desenvolvimento de Sistemas e Experiência Administrativa, uma organização com a paixão por tecnologia para entregar soluções eficientes e visualmente atraentes.
+Desenvolvedor Front-end em formação, focado em criar experiências digitais incríveis. Com uma formação sólida em Análise e Desenvolvimento de Sistemas e Experiência Administrativa, uma organização com a paixão por tecnologia para entregar soluções eficientes e visualmente atraentes. Estou sempre em busca de novos desafios para evoluir minhas habilidades práticas.
 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTelles&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristopherTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTelles&theme=tokyonight" />
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristopherTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <h3 align="left">🛠️ Linguagens e Porcentagens</h3>
@@ -50,4 +45,9 @@ Desenvolvedor Front-end em formação, focado em criar experiências digitais in
   <a href="https://christophertelles.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
+</p>
+
+---
+<p align="center">
+  <em>"A prática leva à perfeição, e a consistência constrói o futuro."</em>
 </p>
