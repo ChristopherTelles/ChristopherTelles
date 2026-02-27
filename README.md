@@ -1,5 +1,11 @@
 # Olá, Sou o Christopher Telles ! 👋
 
+<p align="center">
+  <img src="https://github.com/ChristopherTelles.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #2ea44f;" alt="Christopher Telles">
+</p>
+
+---
+
 ### 🚀 Sobre Mim
 
 Desenvolvedor Front-end em formação, focado em criar experiências digitais incríveis. Com uma formação sólida em Análise e Desenvolvimento de Sistemas e Experiência Administrativa, uma organização com a paixão por tecnologia para entregar soluções eficientes e visualmente atraentes. Estou sempre em busca de novos desafios para evoluir minhas habilidades práticas.
@@ -36,13 +42,13 @@ Desenvolvedor Front-end em formação, focado em criar experiências digitais in
   <a href="mailto:teleschristopher@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/christopher-t-658963191/">
+  <a href="https://linkedin.com/in/christopher-telles-658963191">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[[https://instagram.com/teuschristopher](https://www.instagram.com/christopher_teles?igsh=MXRrbXN3NWo3YXZsYw==)](https://www.instagram.com/christopher_teles?igsh=MXRrbXN3NWo3YXZsYw%3D%3D)">
+  <a href="https://www.instagram.com/christopher_teles?igsh=MXRrbXN3NWo3YXZsYw%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="[https://christophertelles.github.io/Portfolio/](https://christophertelles.github.io/Portfolio.io/)">
+  <a href="https://christophertelles.github.io/Portfolio.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
 </p>
