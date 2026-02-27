@@ -8,16 +8,15 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Front-end em formação, focado em criar experiências digitais incríveis. Com uma formação sólida em Análise e Desenvolvimento de Sistemas e Experiência Administrativa, uma organização com a paixão por tecnologia para entregar soluções eficientes e visualmente atraentes. Estou sempre em busca de novos desafios para evoluir minhas habilidades práticas.
+Desenvolvedor Front-end em formação, focado em criar experiências digitais incríveis. Com uma formação sólida em Análise e Desenvolvimento de Sistemas e Experiência Administrativa, uma organização com a paixão por tecnologia para entregar soluções eficientes e visualmente atraentes.
 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTelles&theme=tokyonight" />
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristopherTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTelles&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristopherTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <h3 align="left">🛠️ Linguagens e Porcentagens</h3>
@@ -31,9 +30,7 @@ Desenvolvedor Front-end em formação, focado em criar experiências digitais in
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,js,ts,react,html,css,sass,nodejs,express,mongodb,postman,figma,github,discord,linkedin,instagram,linux&perline=18" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,vscode,js,ts,react,html,css,sass,nodejs,express,mongodb,postman,figma,github,discord,linkedin,instagram,linux&perline=18" />
 </p>
 
 ---
@@ -53,9 +50,4 @@ Desenvolvedor Front-end em formação, focado em criar experiências digitais in
   <a href="https://christophertelles.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-</p>
-
----
-<p align="center">
-  <em>"A prática leva à perfeição, e a consistência constrói o futuro."</em>
 </p>
