@@ -1,5 +1,4 @@
 # Olá, Sou o **Christopher Telles**! 👋
----
 
 ### 🚀 Sobre Mim
 
